@@ -1,7 +1,7 @@
 Bypass = "death"
 loadstring(game:GetObjects("rbxassetid://5325226148")[1].Source)()
 -----OPTIONS
-local ToolName = "MeshPartAccessory" ----- the hats name on explorer/dex (not name in catalog)
+local ToolName = "Back_AccAccessory" ----- the hats name on explorer/dex (not name in catalog)
 local NoSound = true ----- sound or no sound (Background Music)
 local OldModel = false ----- Use Old Model or your accessory
 
